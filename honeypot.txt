@@ -1,0 +1,5 @@
+
+Github Honeypot resources
+
+ - https://github.com/paralax/awesome-honeypots
+
